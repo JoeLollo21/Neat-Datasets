@@ -1,5 +1,7 @@
 # Neat Datasets
-Because sometimes you just wanna play with neat datasets. Inspired by Melanie Walsh's repository of the same name.
+Because sometimes you just wanna play with neat datasets. 
+<br>
+Inspired by Melanie Walsh's repository of the same name.
 
 Index:
 <br>
