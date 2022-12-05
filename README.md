@@ -6,5 +6,4 @@ Inspired by my research mentor and former instructor [Melanie Walsh](https://mel
 **Index:**
 <br>
 - pokemon.csv includes information of all Pokemon from Gens 1-7 taken from [Pokemon Showdown](https://play.pokemonshowdown.com/).
-<br>
 - Seattle-Libraries.csv and Seattle-Cultural-Spaces.csv are from the City of Seattle [Open Data Portal](https://data.seattle.gov/).
