@@ -1,7 +1,7 @@
 # Neat Datasets
 Because sometimes you just wanna play with neat datasets. 
 <br>
-Inspired by my research mentor and former instructor [Melanie Walsh](https://melaniewalsh.org/)'s [repository of the same name](https://github.com/melaniewalsh/Neat-Datasets).
+Inspired by my research mentor and former instructor [Dr. Melanie Walsh](https://melaniewalsh.org/)'s [repository of the same name](https://github.com/melaniewalsh/Neat-Datasets).
 
 **Index:**
 <br>
