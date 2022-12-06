@@ -1,0 +1,49 @@
+﻿game_name,short_game,game,full_name,has_nickname,nickname,gender,age,talent,height_m,weight_kg,blood_type,mbti,enneagram,alignment,result,dead,death_chapter,relative_death_chapter
+Danganronpa: Trigger Happy Havoc,THH,1,Makoto Naegi,FALSE,,Male,16,Ultimate Lucky Student,1.6,52,AB,ENFJ,2,Neutral Good,Protagonist,FALSE,,
+Danganronpa: Trigger Happy Havoc,THH,1,Kiyotaka Ishimaru,TRUE,Taka,Male,16,Ultimate Moral Compass,1.76,66,A,ESTJ,1,Lawful Good,Victim,TRUE,1.3,3
+Danganronpa: Trigger Happy Havoc,THH,1,Toko Fukawa,TRUE,Genocide Jill,Female,16,Ultimate Writing Prodigy,1.55,47,O,INFP,6,True Neutral,Survivor,FALSE,,
+Danganronpa: Trigger Happy Havoc,THH,1,Sayaka Maizono,FALSE,,Female,16,Ultimate Idol,1.65,49,B,ESFJ,2,Neutral Good,Victim,TRUE,1.1,1
+Danganronpa: Trigger Happy Havoc,THH,1,Leon Kuwata,FALSE,,Male,17,Ultimate Baseball Star,1.75,67,B,ESFP,7,Chaotic Neutral,Killer,TRUE,1.1,1
+Danganronpa: Trigger Happy Havoc,THH,1,Hifumi Yamada,FALSE,,Male,16,Ultimate Fanboy,1.7,155,O,ENFP,4,Chaotic Good,Framed Killer,TRUE,1.3,3
+Danganronpa: Trigger Happy Havoc,THH,1,Mondo Owada,FALSE,,Male,17,Ultimate Biker,1.87,76,A,ESTP,7,Chaotic Neutral,Killer,TRUE,1.2,2
+Danganronpa: Trigger Happy Havoc,THH,1,Aoi Asahina,TRUE,Hina,Female,16,Ultimate Swimmer,1.61,50,B,ISFP,2,Neutral Good,Survivor,FALSE,,
+Danganronpa: Trigger Happy Havoc,THH,1,Chihiro Fujisaki,FALSE,,Male,16,Ultimate Programmer,1.48,41,O,INTP,9,Lawful Good,Victim,TRUE,1.2,2
+Danganronpa: Trigger Happy Havoc,THH,1,Kyoko Kirigiri,FALSE,,Female,17,Ultimate Detective,1.67,48,AB,INTJ,5,Lawful Good,Survivor,FALSE,,
+Danganronpa: Trigger Happy Havoc,THH,1,Junko Enoshima,TRUE,Mukuro Ikusaba,Female,17,Ultimate Model/Ultimate Despair,1.69,45,O,ENTP,7,Chaotic Evil,Mastermind,TRUE,1.6,6
+Danganronpa: Trigger Happy Havoc,THH,1,Mukuro Ikusaba,TRUE,Junko Enoshima,Female,17,Ultimate Soldier,1.69,45,AB,ISTJ,8,True Neutral,Victim,TRUE,1.5,5
+Danganronpa: Trigger Happy Havoc,THH,1,Celestia Ludenberg,TRUE,Celeste,Female,17,Ultimate Gambler,1.63,46,A,ISTP,8,Neutral Evil,Killer,TRUE,1.3,3
+Danganronpa: Trigger Happy Havoc,THH,1,Byakuya Togami,FALSE,,Male,16,Ultimate Affluent Progeny,1.85,68,A,ENTJ,3,Lawful Neutral,Survivor,FALSE,,
+Danganronpa: Trigger Happy Havoc,THH,1,Sakura Ogami,TRUE,Ogre,Female,17,Ultimate Fighter,1.92,99,AB,ISFJ,2,Lawful Good,Suicide,TRUE,1.4,4
+Danganronpa: Trigger Happy Havoc,THH,1,Yasuhiro Hagakure,TRUE,Hiro,Male,21,Ultimate Clairvoyant,1.83,71,B,ENFP,9,Chaotic Neutral,Survivor,FALSE,,
+Danganronpa 2: Killing Harmony,DR2,2,Hajime Hinata,FALSE,,Male,17,Ultimate Hope,1.79,67,A,ISTJ,9,Lawful Good,Protagonist,FALSE,,
+Danganronpa 2: Killing Harmony,DR2,2,Nagito Komaeda,FALSE,,Male,16,Ultimate Lucky Student,1.75,65,O,INFJ,4,Chaotic Neutral,Killer,TRUE,2.5,5
+Danganronpa 2: Killing Harmony,DR2,2,Chiaki Nanami,FALSE,,Female,16,Ultimate Gamer,1.6,46,O,INFP,4,Neutral Good,Victim,TRUE,2.5,5
+Danganronpa 2: Killing Harmony,DR2,2,Kazuichi Soda,FALSE,,Male,17,Ultimate Engineer,1.72,64,AB,ESFP,7,Chaotic Good,Survivor,FALSE,,
+Danganronpa 2: Killing Harmony,DR2,2,Sonia Nevermind,FALSE,,Female,17,Ultimate Princess,1.7,50,A,ENFJ,3,Neutral Good,Survivor,FALSE,,
+Danganronpa 2: Killing Harmony,DR2,2,Akane Owari,FALSE,,Female,16,Ultimate Gymnast,1.76,56,B,ESTP,7,Chaotic Good,Survivor,FALSE,,
+Danganronpa 2: Killing Harmony,DR2,2,Fuyuhiko Kuzuyru,FALSE,,Male,16,Ultimate Yakuza,1.57,43,AB,ENTJ,8,Chaotic Neutral,Survivor,FALSE,,
+Danganronpa 2: Killing Harmony,DR2,2,Gundham Tanaka,TRUE,Supreme Overlord of Ice,Male,16,Ultimate Breeder,1.82,74,O,ISFP,4,Chaotic Neutral,Killer,TRUE,2.4,4
+Danganronpa 2: Killing Harmony,DR2,2,Nekomaru Nidai,FALSE,,Male,17,Ultimate Coach,1.98,122,AB,ENFJ,2,Neutral Good,Victim,TRUE,2.4,4
+Danganronpa 2: Killing Harmony,DR2,2,Mikan Tsumiki,FALSE,,Female,17,Ultimate Nurse,1.65,57,B,ISFJ,6,Neutral Evil,Killer,TRUE,2.3,3
+Danganronpa 2: Killing Harmony,DR2,2,Ibuki Mioda,FALSE,,Female,16,Ultimate Musician,1.64,42,AB,ENFP,4,Chaotic Good,Victim,TRUE,2.3,3
+Danganronpa 2: Killing Harmony,DR2,2,Hiyoko Saionji,FALSE,,Female,16,Ultimate Dancer,1.33,31,B,ESFP,6,Neutral Evil,Victim,TRUE,2.3,3
+Danganronpa 2: Killing Harmony,DR2,2,Peko Pekoyama,TRUE,Masked Justice,Female,17,Ultimate Swordswoman,1.7,51,O,ISTP,8,True Neutral,Killer,TRUE,2.2,2
+Danganronpa 2: Killing Harmony,DR2,2,Mahiru Koizumi,FALSE,,Female,17,Ultimate Photographer,1.64,46,A,ESFJ,1,Lawful Neutral,Victim,TRUE,2.2,2
+Danganronpa 2: Killing Harmony,DR2,2,Teruteru Hanamura,FALSE,,Male,16,Ultimate Chef,1.4,45,AB,ESFP,3,Chaotic Neutral,Killer,TRUE,2.1,1
+Danganronpa 2: Killing Harmony,DR2,2,Ultimate Imposter,TRUE,Byakuya Togami,Male,18,Ultimate Imposter,1.85,130,B,INFJ,9,Lawful Good,Victim,TRUE,2.1,1
+Danganronpa V3: Killing Harmony,V3,3,Shuichi Saihara,FALSE,,Male,16,Ultimate Detective,1.71,58,AB,INTP,5,Neutral Good,Protagonist,FALSE,,
+Danganronpa V3: Killing Harmony,V3,3,Kaede Akamatsu,TRUE,,Female,16,Ultimate Pianist,1.67,53,O,ENFJ,2,Neutral Good,Framed Killer,TRUE,3.1,1
+Danganronpa V3: Killing Harmony,V3,3,Rantaro Amami,FALSE,,Male,17,Ultimate Adventurer,1.79,63,B,ISFP,7,Chaotic Good,Victim,TRUE,3.1,1
+Danganronpa V3: Killing Harmony,V3,3,Kirumi Tojo,FALSE,,Female,17,Ultimate Maid,1.76,52,A,ESFJ,1,Lawful Evil,Killer,TRUE,3.2,2
+Danganronpa V3: Killing Harmony,V3,3,Ryoma Hoshi,FALSE,,Male,20,Ultimate Tennis Pro,1.05,40,AB,ISTP,9,Lawful Good,Victim,TRUE,3.2,2
+Danganronpa V3: Killing Harmony,V3,3,Korekiyo Shinguji,TRUE,Kiyo,Male,16,Ultimate Anthropologist,1.9,65,O,INFJ,4,Neutral Evil,Killer,TRUE,3.3,3
+Danganronpa V3: Killing Harmony,V3,3,Angie Yonaga,FALSE,,Female,17,Ultimate Painter,1.57,41,B,ENFP,4,Chaotic Neutral,Victim,TRUE,3.3,3
+Danganronpa V3: Killing Harmony,V3,3,Tenko Chabasahira,FALSE,,Female,17,Ultimate Martial Artist,1.65,52,A,ENFJ,2,Lawful Neutral,Victim,TRUE,3.3,3
+Danganronpa V3: Killing Harmony,V3,3,Kaito Momota,TRUE,,Male,17,Ultimate Astronaut,1.84,74,O,ESFP,7,Chaotic Good,Victim,TRUE,3.5,5
+Danganronpa V3: Killing Harmony,V3,3,Kokichi Ouma,FALSE,,Male,16,Ultimate Supreme Leader,1.56,44,A,ENTP,4,Chaotic Evil,Killer,TRUE,3.5,5
+Danganronpa V3: Killing Harmony,V3,3,Maki Harukawa,FALSE,,Female,16,Ultimate Assassin,1.62,42,A,INTJ,8,True Neutral,Survivor,FALSE,,
+Danganronpa V3: Killing Harmony,V3,3,Himiko Yumeno,FALSE,,Female,16,Ultimate Magician,1.5,39,O,INFP,4,Neutral Good,Survivor,FALSE,,
+Danganronpa V3: Killing Harmony,V3,3,Miu Iruma,FALSE,,Female,17,Ultimate Inventor,1.73,56,O,ESTP,3,Chaotic Neutral,Victim,TRUE,3.4,4
+Danganronpa V3: Killing Harmony,V3,3,Gonta Goukhara,FALSE,,Male,16,Ultimate Entomologist,1.99,94,AB,ISFJ,6,Neutral Good,Accidental Killer,TRUE,3.4,4
+Danganronpa V3: Killing Harmony,V3,3,K-1B0,TRUE,Keebo,Male,16,Ultimate Robot,1.6,89,null,ISTJ,5,Lawful Neutral,Suicide,TRUE,3.6,6
+Danganronpa V3: Killing Harmony,V3,3,Tsumugi Shirogane,FALSE,,Female,18,Ultimate Cosplayer,1.64,51,AB,ENFJ,3,Neutral Evil,Mastermind,TRUE,3.6,6
