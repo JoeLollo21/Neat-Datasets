@@ -9,3 +9,4 @@ Inspired by my research mentor and former instructor [Dr. Melanie Walsh](https:/
 - **Pokemon.csv** includes information of all Pokemon from Gens 1-7 taken from [Pokemon Showdown](https://play.pokemonshowdown.com/).
 - **Seattle-Churches.csv** is a dataset I created that includes information about all the Catholic churches in Seattle, WA. It is web-scraped from [the Archdiocese of Seattle's parish finder](https://archseattle.org/parish-finder/). You can also find this on [my Kaggle profile](https://www.kaggle.com/datasets/chesspiece99/archdiocese-of-seattle-churches).
 - **Seattle-Libraries.csv** and **Seattle-Cultural-Spaces.csv** are from the City of Seattle [Open Data Portal](https://data.seattle.gov/).
+- **TheOffice-IMDb-Per-Episode.csv** was gathered from the IMDb API and shows the critic and audience ratings from each episode of *The Office*, seasons 1-9.
