@@ -1,7 +1,7 @@
 # Neat Datasets
 Because sometimes you just wanna play with neat datasets. 
 <br>
-Inspired by my research mentor and former instructor [Dr. Melanie Walsh](https://melaniewalsh.org/)'s [repository of the same name](https://github.com/melaniewalsh/Neat-Datasets).
+Inspired by my former instructor/research mentor [Dr. Melanie Walsh](https://melaniewalsh.org/)'s [repository of the same name](https://github.com/melaniewalsh/Neat-Datasets).
 
 ## Dataset Index:
 - **2022-Spotify-Charts.csv** and **2022-TikTok-Charts.csv** were the datasets for [a preservation project from my Data Curation course at UW](https://github.com/ChessPiece21/LIS-54X/tree/main/Curation-Protocol), titled "2022's Hottest Tracks as Data."
